@@ -55,12 +55,13 @@ An overview of the proposed framework. It includes three unimodal encoders, a mu
 ## Citation
 If you find our paper useful, hope you can star our repo and cite our paper as follows:
 ```
-@article{sun2024multiscale,
-      title={Multi-scale Bottleneck Transformer for Weakly Supervised Multimodal Violence Detection}, 
-      author={Shengyang Sun and Xiaojin Gong},
-      year={2024},
-      journal = {arXiv preprint arXiv:2405.05130},
-      url = {https://arxiv.org/abs/2405.05130}
+@inproceedings{sun2024multiscale,
+  title={Multi-scale Bottleneck Transformer for Weakly Supervised Multimodal Violence Detection},
+  author={Sun, Shengyang and Gong, Xiaojin},
+  booktitle={2024 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2024},
+  organization={IEEE}
 }
 ```
 ## License
